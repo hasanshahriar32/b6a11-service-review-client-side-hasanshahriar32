@@ -1,4 +1,4 @@
-# Paradox Old Book sale service
+# Paradox service giving site
 
 This is a simple service that allows you to get services from Paradox Interactive. The service is written in React. The service is deployed on Firebase.
 
